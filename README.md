@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./<div align="center">
-
-<img src="./Axiom AI v1 BANNER.png" width="100%">
+<img src="./Axiom AI v1 BANNER.png" width="100%" alt="Axiom AI Banner">
 
 <br><br>
 
