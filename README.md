@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="./banner.png" alt="Axiom AI Banner" width="100%">
+</p>
 
 # AXIOM AI
 
