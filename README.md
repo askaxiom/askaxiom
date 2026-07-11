@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Axiom AI Banner" width="100%">
+  <img src="./Axiom AI v1 BANNER" alt="Axiom AI Banner" width="100%">
 </p>
 
 # AXIOM AI
