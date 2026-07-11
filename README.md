@@ -1,13 +1,15 @@
 <p align="center">
   <img src="./Axiom AI v1 BANNER.png" alt="Axiom AI Banner" width="100%">
+</p>
 
+<p align="center">
 
 # AXIOM AI
 
 ### The World's Smartest Decision Engine
 
-**Research smarter. Choose better.** </p>
-
+**Research smarter. Choose better.** 
+</p>
 ---
 
 Building AI that researches, compares and recommends  
