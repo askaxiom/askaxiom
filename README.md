@@ -1,19 +1,28 @@
-<p align="center">
-  <img src="./Axiom AI v1 BANNER.png" alt="Axiom AI Banner" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
+<img src="./<div align="center">
 
-# AXIOM AI
+<img src="./Axiom AI v1 BANNER.png" width="100%">
 
-### The World's Smartest Decision Engine
+<br><br>
 
-**Research smarter. Choose better.** 
-</p>
----
+<h1>Axiom AI</h1>
 
-Building AI that researches, compares and recommends  
-to help people make smarter decisions.
+<h3>The World's Smartest Decision Engine</h3>
+
+<p><strong>Research smarter. Choose better.</strong></p>
+
+</div>" width="100%">
+
+<br><br>
+
+<h1>Axiom AI</h1>
+
+<h3>The World's Smartest Decision Engine</h3>
+
+<p><strong>Research smarter. Choose better.</strong></p>
+
+</div>
 
 ---
 
