@@ -14,11 +14,23 @@
 
 ---
 
-🚧 **Current Status**
+<div align="center">
 
-Sprint 0 ✅ Complete
+## 🚧 Current Status
 
-Sprint 1 🚀 In Progress
+**Sprint 0** ✅ Complete
+
+**Sprint 1** 🚀 In Progress
+
+</div>
+
+<div align="center">
+
+---
+
+**Building the future of AI-powered decision making.**
+
+</div>
 
 ---
 
