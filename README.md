@@ -12,16 +12,6 @@
 
 <p><strong>Research smarter. Choose better.</strong></p>
 
-</div>" width="100%">
-
-<br><br>
-
-<h1>Axiom AI</h1>
-
-<h3>The World's Smartest Decision Engine</h3>
-
-<p><strong>Research smarter. Choose better.</strong></p>
-
 </div>
 
 ---
